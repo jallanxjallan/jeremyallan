@@ -1,0 +1,8 @@
+---
+title: Stories of common people in uncommon times
+slug: jakarta_jive
+description: In Jakarta Jive, the social unrest of the late 90s is examined from the point of view of Jakarta residents.
+---
+
+In May 1998, the end of President Soeharto\'s three-decade rule over the Indonesian archipelago initiated a profound social and political transformation that continues today. The social forces unleashed by the collapse of the authoritarian New Order government: regional discontent, radical Islam, and inter-ethnic rivalry, has spawned suicide bombings and other episodes of horrific violence, a growth of foreign-funded religious conservatism, and other sweeping changes that touch the lives of every Indonesian.
+ **Jakarta Jive** looks at the tumultuous events surrounding the fall of Soeharto through the eyes of the people who were affected most: the residents of Jakarta. By telling the stories of Jakartans of all levels: an executive of a failed bank becomes a househusband as his wife opens a street-side cafe for the family\'s survival; a Chinese-Indonesian university student comes to terms with the horror of mass rape through discovering her talent for photojournalism; a migrant domestic worker draws strength from his religion as he struggles to support his extended family in his home village, Jakarta Jive paints a ground-level, intimate portrait of a society undergoing profound transformation. As a vivid evocation of those exciting, disturbing, and bewildering times, Jakarta Jive has become a must read for anyone with an interest in modern Indonesia.
