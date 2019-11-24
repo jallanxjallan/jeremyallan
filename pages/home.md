@@ -1,5 +1,5 @@
 ---
-title: A Canadian author in Indonesia
+title: A Canadian writer in Indonesia
 slug: home
 description: Books and other published materials of a Canadian author living in Indonesia.
 ---
