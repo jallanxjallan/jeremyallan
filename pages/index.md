@@ -1,6 +1,6 @@
 ---
 title: A Canadian writer in Indonesia
-slug: home
+slug: index
 description: Books and other published materials of a Canadian author living in Indonesia.
 ---
 

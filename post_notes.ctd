@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="Five Jewels" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1692607897" ts_lastsave="1692608223">
+    <rich_text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The equatorial highlands, exemplified by the Lake Toba area, combine the tropical delights of dense forests and exotic produce with the invigorating qualities of temperate weather. Lake Toba, Indonesia's largest lake and the world's largest volcanic lake, stretches 100 kilometers in length and 30 kilometers at its widest, situated at an elevation of 900 meters. These remarkable characteristics have earned Lake Toba the prestigious designation of a UNESCO Geopark. Here, both tourists and the local populace engage in educational pursuits, focusing on the preservation of natural resources and the promotion of sustainable tourism.</rich_text>
+    <node name="Lake Toba" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1692607911" ts_lastsave="1692607911"/>
+  </node>
+</cherrytree>
